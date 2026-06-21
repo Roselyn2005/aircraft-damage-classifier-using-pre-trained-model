@@ -1,0 +1,7 @@
+Python
+TensorFlow
+Keras
+VGG16 (Pre-trained on ImageNet)
+NumPy
+Matplotlib
+Scikit-learn
